@@ -4,13 +4,12 @@
       "tag": "greeting",
       "patterns": [
         "Hi",
+        "hii",
         "Hey",
         "How are you",
         "Is anyone there?",
         "Hello",
-        "Good day",
-        "hii",
-        "hi"
+        "Good day"
       ],
       "responses": [
         "Hey :-)",
@@ -31,7 +30,7 @@
     {
       "tag": "thanks",
       "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
-      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      "responses": ["Happy to Help!", "Any time!", "My pleasure"]
     },
     {
       "tag":"discounts",
@@ -58,11 +57,11 @@
       ],
       "responses":[
         "You can find information about the courses offered by sciastra on their website.",
-        "These are some of the popular courses  NEST 2023 Complete Crash Course iAT 2023 Complete Crash Course Vikram Batch 2024",
+        "These are some of the popular courses  NEST 2023 Complete Crash Course IAT 2023 Complete Crash Course Vikram Batch 2024",
         "sciastra offers courses in Physics, Mathematics, and Chemistry.",
-        "sciastra offers courses for exams like iAT, Assam Board, NEST, and KVPY.",
+        "sciastra offers courses for exams like IAT, Assam Board, NEST, and KVPY.",
         "You can find the list of courses offered by sciastra on their website under the 'Our Courses' section.",
-        "You can use the sciastra app to reach out to the company, boost up your preparation for NEST, iAT, iACS-UPST, and subscribe to their newsletter."
+        "You can use the sciastra app to reach out to the company, boost up your preparation for NEST, IAT, IACS-UPST, and subscribe to their newsletter."
       ]
 
     },
@@ -82,7 +81,7 @@
         "Yes, sciastra provides free study material designed by their team.",
         "Yes, there is free material available on the sciastra website.",
         "Yes, you can find free materials on sciastra's website under the 'Free Materials' section.",
-        "i apologize for the confusion in my previous response. Yes, you can access the free study materials from sciastra without creating an account. The free study material is available on their website and can be accessed directly without any signup or account creation process. Simply visit their website and navigate to the section where they provide free study materials. if you have any other questions or need further assistance, please let me know!",
+        "i apologize for the confusion in my previous response. Yes, you can access the free study materials from sciastra without creating an account. The free study material is available on their website and can be accessed directly without any signup or account creation process. Simply vISIt their website and navigate to the section where they provide free study materials. if you have any other questions or need further assistance, please let me know!",
         "You can find free materials offered by sciastra on their website under the 'Free Materials' section."
       ]
 
@@ -92,14 +91,12 @@
       "patterns":[
         "what is sciastra",
         "who is sciastra",
-        "What does sciastra does",
-        "what is the name of the company",
-        "what is the address of the company"
+        "What does sciastra does"
       ],
       "responses":[
         "sciastra is a course for future scientists.",
-        "Sciastra helps in building the future scientists",
-        "The name of the company is sciastra Education Private Limited.The address of the company is Plot-964, Saikrupa, Patharagadia, Chandaka, Bhubaneswar, Khordha, Orissa, india, 754005."
+        "Sciastra helps in building the future scientists"
+       
       ]
 
     },
@@ -112,20 +109,21 @@
         "where is sciastra company"
       ],
       "responses": [
-        "The address of the company is Plot-964, Saikrupa, Patharagadia, Chandaka, Bhubaneswar, Khordha, Orissa, india, 754005.",
-        "The address of the company is Plot-964, Chandaka, Bhubaneswar, Khordha, Orissa, india, 754005."
+        "The address of the company is Plot-964, Saikrupa, Patharagadia, Chandaka, Bhubaneswar, Khordha, Orissa, India, 754005.",
+        "The address of the company is Plot-964, Chandaka, Bhubaneswar, Khordha, Orissa, India, 754005.",
+        "The name of the company is sciastra Education Private Limited.The address of the company is Plot-964, Saikrupa, Patharagadia, Chandaka, Bhubaneswar, Khordha, Orissa, India, 754005."
       ]
     },
     {
       "tag":"mocktest",
       "patterns":[
         "what kind of exams does sciastra provide mock tests for",
-        "what is the price of NEST 2023 Mock Test Series",
-        ""
+        "what is the price of NEST 2023 Mock Test Series"
+    
       ],
       "responses":[
-        "sciastra provides mock tests for exams such as iisER-iAT, NEST, isi, CMi, iACS, KVPY, and iCAR AiEEA.",
-        ""
+        "sciastra provides mock tests for exams such as IISER-IAT, NEST, ISI, CMI, IACS, KVPY, and ICAR AIEEA."
+      
       ]
 
     },
@@ -133,7 +131,7 @@
       "tag":"courseseinfo",
       "patterns":[
         "what is the price of Spartan 20 (2023)",
-        "what kind of mock tests does sciastra provide for iisER-iAT",
+        "what kind of mock tests does sciastra provide for IISER-IAT",
         "what is the price of sciastra Masterclass",
         "what is the price of NEST 2023 Mock Test Series",
         "what is the discount on IAT 2023 Mock Test Series",
@@ -142,8 +140,8 @@
         "what is the price of IAT 2023 Everything Series"
       ],
       "responses":[
-        "You can see the info about test in Our website in  courses section",
-        "You can see the prices of the particular coursses  in Our website in  courses section"
+        "You can see the info about test in Our website in courses section",
+        "You can see the prices of the particular coursses in Our website in courses section"
       ]
 
     },
@@ -160,12 +158,12 @@
 
     },
     {
-      "tag":"institutes",
+      "tag":"Institutes",
       "patterns":[
-        "what institutes are covered on the website"
+        "what Institutes are covered on the website"
       ],
       "responses":[
-        "The website covers institutes such as IISER, NISER, IISC, and CEBS."
+        "The website covers Institutes such as IISER, NISER, IISC, and CEBS."
       ]
 
     },
@@ -236,7 +234,7 @@
         "how is the merit list calculated"
       ],
       "responses":[
-        "The merit list considers the best three qualifying scores, omitting the section with the worst score. Therefore, attempting all sections is advantageous."
+        "The merit list considers the best three qualifying scores, omitting the section with the worst score. Therefore, attempting all sections is Advantageous."
       ]
 
     },
@@ -246,7 +244,7 @@
         "how many programs will candidates be shown across IISERs  "
       ],
       "responses":[
-        "Candidates will be shown 9 programs across 7 iisERs (or 7 programs across 7 iisERs if they did not have Mathematics as a subject in class Xii)"
+        "Candidates will be shown 9 programs across 7 IISERs (or 7 programs across 7 IISERs if they did not have Mathematics as a subject in class XII)"
       ]
 
     },
@@ -265,12 +263,12 @@
 
 
     {
-      "tag":"topinstitutes",
+      "tag":"topInstitutes",
       "patterns":[
-        "Which are the top institutes where sciastra students have been selected"
+        "Which are the top Institutes where sciastra students have been selected"
       ],
       "responses":[
-        "sciastra students have been selected in top institutes like iisER Pune, iisER Kolkata, iisER Mohali, iisER Bhopal, iisER Thiruvananthapuram, and iisER Tirupati."
+        "sciastra students have been selected in top Institutes like IISER Pune, IISER Kolkata, IISER Mohali, IISER Bhopal, IISER Thiruvananthapuram, and IISER Tirupati."
       ]
 
     },
@@ -278,11 +276,11 @@
       "tag":"toprankers",
       "patterns":[
         "Who are some of the top rankers from sciastra",
-        "Who are some of the top rankers from sciastra in iAT 2022"
+        "Who are some of the top rankers from sciastra in IAT 2022"
       ],
       "responses":[
-        "Some of the top rankers from sciastra include Adarsh V (Rank 1 in iAT 2021), Dhritiraj (Rank 1 in Assam Board 2021), Adityarup (Rank 13 in NEST 2021), and Apoorva (Rank 1 in KVPY 2021).",
-        "Some of the top rankers from sciastra in iAT 2022 include Dhritiraj Bastav Kalita, Kuhak Guha, Suhani Bhattacharyya, Sabarno Saha, Avik Devsharma, Devadarsh Kottarakoth, Anushka Vaibhav Joshi, Tanmay Pandey, Sai Shanmukh, Kasmita Singha, Nirmalya Upadhyay, aryan gupta, Mayuri Datta, Sharika, and Apoorva singh."
+        "Some of the top rankers from sciastra include Adarsh V (Rank 1 in IAT 2021), Dhritiraj (Rank 1 in Assam Board 2021), Adityarup (Rank 13 in NEST 2021), and Apoorva (Rank 1 in KVPY 2021).",
+        "Some of the top rankers from sciastra in IAT 2022 include Dhritiraj Bastav Kalita, Kuhak Guha, Suhani Bhattacharyya, Sabarno Saha, Avik Devsharma, Devadarsh Kottarakoth, Anushka Vaibhav Joshi, Tanmay Pandey, Sai Shanmukh, Kasmita Singha, Nirmalya Upadhyay, aryan gupta, Mayuri Datta, Sharika, and Apoorva singh."
       ]
 
     },
@@ -305,7 +303,7 @@
       ],
       "responses":[
         "The features of Personal Mentorship Courses include face-to-face doubt clearing classes, a private whatsApp group for all the support & help from mentors, and the ability to pay as per your wish.",
-        "Personal Mentorship Courses is a one-to-one live class with top mentors from iisc, iisERs, iiTs, NisER, etc. with a customized study plan/schedule for the student."
+        "Personal Mentorship Courses is a one-to-one live class with top mentors from IISC, IISERs, IITs, NISER, etc. with a customized study plan/schedule for the student."
       ]
     },
     {
@@ -318,7 +316,7 @@
         "what kind of mock tests does sciastra provide for ICAR AIEEA"
       ],
       "responses": [
-        "ICAR AIEEA is an exam for admission to undergraduate and postgraduate programs in agriculture and allied sciences. sciastra provides mock tests for iCAR AiEEA, specifically for PCB and PCM."
+        "ICAR AIEEA is an exam for admission to undergraduate and postgraduate programs in agriculture and allied sciences. sciastra provides mock tests for ICAR AIEEA, specifically for PCB and PCM."
         
       ]
     },
@@ -326,7 +324,7 @@
       "tag": "IISER",
       "patterns": [
         "what is IISER ",
-        "what is the iisER Aptitude Test",
+        "what is the IISER Aptitude Test",
         "IISER stands for?",
         "what is IISER?"
       ],
@@ -345,7 +343,7 @@
         "what is the study material provided by sciastra for NEST"
       ],
       "responses": [
-        "NEST is an exam for admission to the National institute of Science Education and Research (NisER) and the Center for Excellence in Basic Sciences (CEBS).sciastra provides study material for NEST from 2007 to 2022."
+        "NEST is an exam for admission to the National Institute of Science Education and Research (NISER) and the Center for Excellence in Basic Sciences (CEBS).sciastra provides study material for NEST from 2007 to 2022."
         
       ]
     },
@@ -356,14 +354,34 @@
         "what is the full form of  IAT",
         "IAT stands for?",
         "what is the maximum mark in IAT",
-        "Can you lower the cost of the crash course of iAT ",
-        "what documents are required for iAT application",
-        "Will i get all previously recorded lectures from the start in the IAT Complete crash course ",
-        "Do you have any idea about the reopening of the correction window for IAT"
+        "Can you lower the cost of the crash course of IAT ",
+        "what documents are required for IAT application"
+ 
       ],
       "responses": [
-        "IAT stands for integrated Admission Test. The maximum mark in IAT is 240.We have launched the Mock Test Series and Everything series.and documents required for IAT Application are Class X certificate, Class Xii (or equivalent examination), and a signed declaration form if the marks sheet is unavailable.",
-        "Yes, you will get all the recorded lectures from the start. You can watch them anytime at your convenient pace. Everything has been organised in the content section of the course.",
+        "IAT stands for integrated Admission Test. The maximum mark in IAT is 240.We have launched the Mock Test Series and Everything series.and documents required for IAT Application are Class X certificate, Class XII (or equivalent examination), and a signed declaration form if the marks sheet is unavailable."
+    
+        
+      ]
+    },
+    {
+      "tag": "recorded_session",
+      "patterns": [
+        "Will i get all previously recorded lectures from the start in the IAT Complete crash course"
+   
+      ],
+      "responses": [
+        "Yes, you will get all the recorded lectures from the start. You can watch them anytime at your convenient pace. Everything has been organised in the content section of the course."
+        
+      ]
+    },
+    {
+      "tag": "correction_window",
+      "patterns": [
+        "Do you have any idea about the reopening of the correction window for IAT"
+   
+      ],
+      "responses": [
         "We do not have any information about the reopening of the correction window for IAT."
         
       ]
@@ -377,7 +395,7 @@
         "what is IGIB?"
       ],
       "responses": [
-        "IGIB is the institute of Genomics and integrative Biology."
+        "IGIB is the Institute of Genomics and integrative Biology."
         
       ]
     },
@@ -386,23 +404,18 @@
       "patterns": [
         "what is an OBC-NCL certificate",
         "what is the signed declaration form required for",
-        "When is an OBC-NCL certificate required ",
-        "what is IGIB?"
+        "When is an OBC-NCL certificate required "
       ],
       "responses": [
-        "OBC-NCL certificate is a certificate issued to individuals belonging to Other Backward Classes (OBC) who are Non-Creamy Layer (NCL) category.",
-        "The signed declaration form is required along with the OBC-NCL certificate during the online application process.",
-        "An OBC-NCL certificate is required during the online application process."
+        "OBC-NCL certificate is a certificate issued to individuals belonging to Other Backward Classes (OBC) who are Non-Creamy Layer (NCL) category.The signed declaration form is required along with the OBC-NCL certificate during the online application process.An OBC-NCL certificate is required during the online application process."
         
       ]
     },
     {
       "tag": "kvpy",
       "patterns": [
-        "Do i need to appear for iAT-2023 if i apply through the KVPY Channel",
-        "Who is not eligible for the KVPY Channel",
-        "IGIB stands for?",
-        "what is IGIB?"
+        "Do i need to appear for IAT-2023 if i apply through the KVPY Channel",
+        "Who is not eligible for the KVPY Channel"
       ],
       "responses": [
         "No, you do not need to appear if you apply through the KVPY Channel.Although Candidates in the extended KVPY merit list are not eligible for the KVPY Channel."
@@ -423,12 +436,12 @@
     {
       "tag": "Bose_research",
       "patterns": [
-        "what facilities are available at Bose Research institute, Kolkata",
-        "what courses are offered at Bose Research institute, Kolkata",
-        "is there any scholarship available at Bose Research institute, Kolkata "
+        "what facilities are available at Bose Research Institute, Kolkata",
+        "what courses are offered at Bose Research Institute, Kolkata",
+        "is there any scholarship available at Bose Research Institute, Kolkata "
       ],
       "responses": [
-        "Bose Research institute, Kolkata has various facilities for research and development in the field of science and technology. Bose Research institute, Kolkata offers various courses related to science and technology.Bose Research institute, Kolkata offers scholarships to eligible students."
+        "Bose Research Institute, Kolkata has various facilities for research and development in the field of science and technology. Bose Research Institute, Kolkata offers various courses related to science and technology.Bose Research Institute, Kolkata offers scholarships to eligible students."
         
       ]
     },
@@ -438,7 +451,7 @@
         "Who are the authorities that issue Caste Certificates"
       ],
       "responses": [
-        "The authorities that issue Caste Certificates are District Magistrate/Additional Magistrate/Collector/Deputy Commissioner/Additional Deputy Commissioner/Deputy Collector/1st Class Stipendiary Magistrate/Sub-Divisional Magistrate/Taluka Magistrate/Executive Magistrate/Extra Assistant Commissioner (not below the rank of 1st Class Stipendiary Magistrate)."
+        "The authorities that issue Caste Certificates are District Magistrate/Additional Magistrate/Collector/Deputy Commissioner/Additional Deputy Commissioner/Deputy Collector/1st Class Stipendiary Magistrate/Sub-DivISIonal Magistrate/Taluka Magistrate/Executive Magistrate/Extra Assistant Commissioner (not below the rank of 1st Class Stipendiary Magistrate)."
         
       ]
     },  {
@@ -447,7 +460,7 @@
         "how are marks considered for IAT application"
       ],
       "responses": [
-        "a) if a board provides aggregate marks considering both Class Xi and Class Xii, only the Class Xii (or equivalent) exam marks will be considered. b) For boards that offer a 3-year diploma or equivalent duration courses, only the marks scored in the final year will be considered. c) The marks scored in the final two semesters will be considered for board..",
+        "a) if a board provides aggregate marks considering both Class Xi and Class XII, only the Class XII (or equivalent) exam marks will be considered. b) For boards that offer a 3-year diploma or equivalent duration courses, only the marks scored in the final year will be considered. c) The marks scored in the final two semesters will be considered for board..",
         "Marks are considered based on the board's aggregate marks, final year marks for 3-year diploma or equivalent duration courses, and final two semesters for semester system boards."
         
       ]
@@ -480,11 +493,11 @@
       "patterns": [
         "what is the JEE Channel",
         "what is the eligibility criteria for the JEE Channel",
-        "Do i need to appear for iAT-2023 if i apply through the JEE Channel"
+        "Do i need to appear for IAT-2023 if i apply through the JEE Channel"
       ],
       "responses": [
-        "The JEE Channel is a channel for admission to iisERs for candidates who have qualified in JEE (Advanced) in the year 2023. Candidates must have a rank within 15000 in the common rank list or in the respective category rank lists (GEN-EWS/OBC-NCL/SC/ST/PwD) and must have qualified JEE (Advanced) in the year 2023. Candidates with JEE (Advanced) preparatory ranks are not eligible.",
-        "No, you do not need to appear for iAT-2023 if you apply through the JEE Channel."
+        "The JEE Channel is a channel for admission to IISERs for candidates who have qualified in JEE (Advanced) in the year 2023. Candidates must have a rank within 15000 in the common rank list or in the respective category rank lists (GEN-EWS/OBC-NCL/SC/ST/PwD) and must have qualified JEE (Advanced) in the year 2023. Candidates with JEE (Advanced) preparatory ranks are not eligible.",
+        "No, you do not need to appear for IAT-2023 if you apply through the JEE Channel."
         
       ]
     },
@@ -495,15 +508,14 @@
         "Where can i find the declaration form "
       ],
       "responses": [
-        "Scan the signed declaration form and upload the scanned copy of the signed declaration form.",
-        "You can download the 'DECLARATION BY THE CANDIDATE IN LIEU OF ELIGIBILITY EXAM CERTIFICATE/MARKSHEET' form from the Downloads section."
+        "Scan the signed declaration form and upload the scanned copy of the signed declaration form.You can download the 'DECLARATION BY THE CANDIDATE IN LIEU OF ELIGIBILITY EXAM CERTIFICATE/MARKSHEET' form from the Downloads section."
         
       ]
     },
     {
       "tag": "everything_series",
       "patterns": [
-        "is the 'Everything series' course enough to get into iisc Bangalore"
+        "is the 'Everything series' course enough to get into IISC Bangalore"
       ],
       "responses": [
         "Except for the revision classes, it has most"
@@ -523,10 +535,10 @@
     {
       "tag": "IAT_sciastra",
       "patterns": [
-        "Why is the iAT 2022 paper on the sciastra app different from the one on the website"
+        "Why is the IAT 2022 paper on the sciastra app different from the one on the website"
       ],
       "responses": [
-        "what we uploaded is from the response sheet of students who attempted iAT last year. The paper uploaded on iAT official website is not the actual paper that was conducted."
+        "what we uploaded is from the response sheet of students who attempted IAT last year. The paper uploaded on IAT official website is not the actual paper that was conducted."
         
       ]
     },
@@ -536,7 +548,7 @@
         "what are the minimum subjects required for admission"
       ],
       "responses": [
-        "Candidates must have taken at least three subjects among Biology, Chemistry, Mathematics and Physics during their Class Xii (or equivalent) exam."
+        "Candidates must have taken at least three subjects among Biology, Chemistry, Mathematics and Physics during their Class XII (or equivalent) exam."
         
       ]
     },
@@ -596,33 +608,59 @@
       "tag": "timing",
       "patterns": [
         "what is the deadline for submitting the marks sheet",
-        "what is the full form of  ICAR AIEEAwhat is the latest time a candidate can enter the examination hall for the first session",
-        "ICAR stands for?",
-        "what happens if i fail to submit the marks sheet by the deadline",
+        "what happens if i fail to submit the marks sheet by the deadline"
+      ],
+      "responses": [
+        "The deadline for submitting the marks sheet is 7th July 2023.if you fail to submit the marks sheet by the deadline, you will not be allotted a seat in any of the IISERs."       
+      ]
+    },
+    {
+      "tag": "First_session",
+      "patterns": [
         "what is the earliest time a candidate can leave the examination hall for the first session",
+        "what is the latest time a candidate can enter the examination hall for the first session"
+
+      ],
+      "responses": [
+        "Candidates cannot enter the examination hall after 9:30 AM for the first session.The earliest a candidate can leave the examination hall is 11:00 AM for the first session, except for medical reasons. "
+      ]
+    },
+    {
+      "tag": "Second_session",
+      "patterns": [
         "what is the earliest time a candidate can leave the examination hall for the second session",
-        "what is the latest time a candidate can enter the examination hall for the first session ",
         "what is the latest time a candidate can enter the examination hall for the second session"
       ],
       "responses": [
-        "Candidates cannot enter the examination hall after 9:30 AM for the first session. The deadline for submitting the marks sheet is 7th July 2023.if you fail to submit the marks sheet by the deadline, you will not be allotted a seat in any of the iisERs.",
-        "The earliest a candidate can leave the examination hall is 11:00 AM for the first session, except for medical reasons.",
-        "The earliest a candidate can leave the examination hall is 4:30 PM for the second session, except for medical reasons.",
-        "Candidates cannot enter the examination hall after 3:00 PM for the second session."
-        
+        "Candidates cannot enter the examination hall after 3:00 PM for the second session.The earliest a candidate can leave the examination hall is 4:30 PM for the second session, except for medical reasons."
       ]
     },
     {
       "tag": "reservation",
       "patterns": [
-        "is there any reservation for EWS candidates",
-        "what is the eligibility criteria for EBC reservation",
+        "is there any reservation for EWS candidates"
+      ],
+      "responses": [
+        "Yes, reservation for Economically Weaker Sections (EWS) is allowed in the General-EWS category for admission to CEBS."
+
+      ]
+    },
+    {
+      "tag": "EBC_reservation",
+      "patterns": [
+        "what is the eligibility criteria for EBC reservation"
+      ],
+      "responses": [
+        "EBC candidates are not eligible for reservation unless they satisfy the OBC-NCL criteria."
+      ]
+    },
+    {
+      "tag": "EWS_niser",
+      "patterns": [
         "Are EWS candidates eligible for reservation in NISER"
       ],
       "responses": [
-        "Yes, reservation for Economically Weaker Sections (EWS) is allowed in the General-EWS category for admission to CEBS.",
-        "EBC candidates are not eligible for reservation unless they satisfy the OBC-NCL criteria.",
-        "EWS candidates will be treated as a general candidate in NisER as there is no GEN EWS reservation."
+        "EWS candidates will be treated as a general candidate in NISER as there is no GEN EWS reservation."
       ]
     },
     {
@@ -650,18 +688,39 @@
       ]
     },
     {
-      "tag": "rank",
+      "tag": "rank_iat",
       "patterns": [
-        "does getting a rank guarantee admission to an IISER ?",
-        "what marks will be considered for preparing the Rank List ",
-        "what is the purpose of the Rank List",
-        "Will every candidate appearing in iAT 2023 be awarded a rank"
+        "Will every candidate appearing in IAT 2023 be awarded a rank"
       ],
       "responses": [
-        "No, getting a rank does not guarantee an offer/admission to an IISER.",
-        "The total marks obtained by a candidate out of 240 will be considered for preparing the Rank List.",
-        "The purpose of the Rank List is to rank the candidates based on their total marks obtained out of 240.",
-        "No, not every candidate appearing in iAT 2023 will be awarded a rank."
+        "No, not every candidate appearing in IAT 2023 will be awarded a rank."
+      ]
+    },
+    {
+      "tag": "rank_guarantee",
+      "patterns": [
+        "does getting a rank guarantee admission to an IISER ?"
+      ],
+      "responses": [
+        "No, getting a rank does not guarantee an offer/admission to an IISER."
+      ]
+    },
+    {
+      "tag": "rank_list",
+      "patterns": [
+        "what is the purpose of the Rank List"
+      ],
+      "responses": [
+        "The purpose of the Rank List is to rank the candidates based on their total marks obtained out of 240."
+      ]
+    },
+    {
+      "tag": "rank",
+      "patterns": [
+        "what marks will be considered for preparing the Rank List "
+      ],
+      "responses": [
+        "The total marks obtained by a candidate out of 240 will be considered for preparing the Rank List."
       ]
     },
     {
@@ -684,7 +743,7 @@
       ],
       "responses": [
         "All the detailed PYQ solutions can be found in the PYQ Exams that are being conducted",
-        "You can download Physics NisER PYQ from the given link 'Download Now'."
+        "You can download Physics NISER PYQ from the given link 'Download Now'."
       ]
     },
     {
